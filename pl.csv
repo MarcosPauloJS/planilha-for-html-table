@@ -1,0 +1,27 @@
+linha ,origem ,data,op,codigo de item,fornecedor,descrição,utilização
+Fe01,Dado 1,Dado 27,Dado 28,Dado 29,Dado 30,Dado 31,Dado 32
+Fe19,Dado 2,Dado 28,Dado 29,Dado 30,Dado 31,Dado 32,Dado 33
+Fe01,Dado 3,Dado 29,Dado 30,Dado 31,Dado 32,Dado 33,Dado 34
+Fe08,Dado 4,Dado 30,Dado 31,Dado 32,Dado 33,Dado 34,Dado 35
+Fe01,Dado 5,Dado 31,Dado 32,Dado 33,Dado 34,Dado 35,Dado 36
+Fe05,Dado 6,Dado 32,Dado 33,Dado 34,Dado 35,Dado 36,Dado 37
+Fe02,Dado 7,Dado 33,Dado 34,Dado 35,Dado 36,Dado 37,Dado 38
+Fe02,Dado 8,Dado 34,Dado 35,Dado 36,Dado 37,Dado 38,Dado 39
+Fe03,Dado 9,Dado 35,Dado 36,Dado 37,Dado 38,Dado 39,Dado 40
+Fe04,Dado 10,Dado 36,Dado 37,Dado 38,Dado 39,Dado 40,Dado 41
+Fe05,Dado 11,Dado 37,Dado 38,Dado 39,Dado 40,Dado 41,Dado 42
+Fe06,Dado 12,Dado 38,Dado 39,Dado 40,Dado 41,Dado 42,Dado 43
+Fe07,Dado 13,Dado 39,Dado 40,Dado 41,Dado 42,Dado 43,Dado 44
+Fe08,Dado 14,Dado 40,Dado 41,Dado 42,Dado 43,Dado 44,Dado 45
+Fe09,Dado 15,Dado 41,Dado 42,Dado 43,Dado 44,Dado 45,Dado 46
+Fe10,Dado 16,Dado 42,Dado 43,Dado 44,Dado 45,Dado 46,Dado 47
+Fe11,Dado 17,Dado 43,Dado 44,Dado 45,Dado 46,Dado 47,Dado 48
+Fe12,Dado 18,Dado 44,Dado 45,Dado 46,Dado 47,Dado 48,Dado 49
+Fe13,Dado 19,Dado 45,Dado 46,Dado 47,Dado 48,Dado 49,Dado 50
+Fe14,Dado 20,Dado 46,Dado 47,Dado 48,Dado 49,Dado 50,Dado 51
+Fe15,Dado 21,Dado 47,Dado 48,Dado 49,Dado 50,Dado 51,Dado 52
+Fe16,Dado 22,Dado 48,Dado 49,Dado 50,Dado 51,Dado 52,Dado 53
+Fe17,Dado 23,Dado 49,Dado 50,Dado 51,Dado 52,Dado 53,Dado 54
+Fe18,Dado 24,Dado 50,Dado 51,Dado 52,Dado 53,Dado 54,Dado 55
+Fe19,Dado 25,Dado 51,Dado 52,Dado 53,Dado 54,Dado 55,Dado 56
+Fe20,Dado 26,Dado 52,Dado 53,Dado 54,Dado 55,Dado 56,Dado 57
